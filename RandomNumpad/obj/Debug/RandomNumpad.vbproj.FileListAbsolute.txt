@@ -1,0 +1,12 @@
+D:\#Classroom\S6\VB\Tugas_VBNET_Jethro_18421164\RandomNumpad\bin\Debug\RandomNumpad.exe.config
+D:\#Classroom\S6\VB\Tugas_VBNET_Jethro_18421164\RandomNumpad\bin\Debug\RandomNumpad.exe
+D:\#Classroom\S6\VB\Tugas_VBNET_Jethro_18421164\RandomNumpad\bin\Debug\RandomNumpad.pdb
+D:\#Classroom\S6\VB\Tugas_VBNET_Jethro_18421164\RandomNumpad\bin\Debug\RandomNumpad.xml
+D:\#Classroom\S6\VB\Tugas_VBNET_Jethro_18421164\RandomNumpad\obj\Debug\RandomNumpad.vbprojAssemblyReference.cache
+D:\#Classroom\S6\VB\Tugas_VBNET_Jethro_18421164\RandomNumpad\obj\Debug\RandomNumpad.Form1.resources
+D:\#Classroom\S6\VB\Tugas_VBNET_Jethro_18421164\RandomNumpad\obj\Debug\RandomNumpad.Resources.resources
+D:\#Classroom\S6\VB\Tugas_VBNET_Jethro_18421164\RandomNumpad\obj\Debug\RandomNumpad.vbproj.GenerateResource.cache
+D:\#Classroom\S6\VB\Tugas_VBNET_Jethro_18421164\RandomNumpad\obj\Debug\RandomNumpad.vbproj.CoreCompileInputs.cache
+D:\#Classroom\S6\VB\Tugas_VBNET_Jethro_18421164\RandomNumpad\obj\Debug\RandomNumpad.exe
+D:\#Classroom\S6\VB\Tugas_VBNET_Jethro_18421164\RandomNumpad\obj\Debug\RandomNumpad.xml
+D:\#Classroom\S6\VB\Tugas_VBNET_Jethro_18421164\RandomNumpad\obj\Debug\RandomNumpad.pdb

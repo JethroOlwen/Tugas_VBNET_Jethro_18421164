@@ -1,0 +1,12 @@
+D:\#Classroom\S6\VB\Tugas_VBNET_Jethro_18421164\MathQuiz\bin\Debug\MathQuiz.exe.config
+D:\#Classroom\S6\VB\Tugas_VBNET_Jethro_18421164\MathQuiz\bin\Debug\MathQuiz.exe
+D:\#Classroom\S6\VB\Tugas_VBNET_Jethro_18421164\MathQuiz\bin\Debug\MathQuiz.pdb
+D:\#Classroom\S6\VB\Tugas_VBNET_Jethro_18421164\MathQuiz\bin\Debug\MathQuiz.xml
+D:\#Classroom\S6\VB\Tugas_VBNET_Jethro_18421164\MathQuiz\obj\Debug\MathQuiz.vbprojAssemblyReference.cache
+D:\#Classroom\S6\VB\Tugas_VBNET_Jethro_18421164\MathQuiz\obj\Debug\MathQuiz.Form1.resources
+D:\#Classroom\S6\VB\Tugas_VBNET_Jethro_18421164\MathQuiz\obj\Debug\MathQuiz.Resources.resources
+D:\#Classroom\S6\VB\Tugas_VBNET_Jethro_18421164\MathQuiz\obj\Debug\MathQuiz.vbproj.GenerateResource.cache
+D:\#Classroom\S6\VB\Tugas_VBNET_Jethro_18421164\MathQuiz\obj\Debug\MathQuiz.vbproj.CoreCompileInputs.cache
+D:\#Classroom\S6\VB\Tugas_VBNET_Jethro_18421164\MathQuiz\obj\Debug\MathQuiz.exe
+D:\#Classroom\S6\VB\Tugas_VBNET_Jethro_18421164\MathQuiz\obj\Debug\MathQuiz.xml
+D:\#Classroom\S6\VB\Tugas_VBNET_Jethro_18421164\MathQuiz\obj\Debug\MathQuiz.pdb
